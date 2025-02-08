@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ipapi.co",
+        "ping0.cc",
+        "us.kg",
+        "sourceforge.net",
+        "v2ray-agent.com",
+        "592083.xyz",
+        "namecheap.com",
+        "ecostack.cloud",
+        "clash.wiki",
+        "sehuatang.org",
+        "readthedocs.io"
+      ]
+    }
+  ]
+}
