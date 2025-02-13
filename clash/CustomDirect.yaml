@@ -1,4 +1,6 @@
 payload:
+  # other
   - DOMAIN-SUFFIX,sda.moe
+  # PT
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,byr.pt
