@@ -1,4 +1,4 @@
 payload:
-  - '+.sda.moe'
-  - '+.tjupt.org'
-  - '+.byr.pt'
+  - DOMAIN-SUFFIX,sda.moe
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,byr.pt
