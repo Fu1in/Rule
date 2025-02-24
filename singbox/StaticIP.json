@@ -2,8 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [      
-        "piggo.me",
+      "domain_suffix": [
         "hddolby.com",
         "hhanclub.top"
       ]
