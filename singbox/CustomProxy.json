@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "subfree.de",
+        "flyvpn.de",
         "hitpt.com",
         "themoviedb.org",
         "ipapi.co",
