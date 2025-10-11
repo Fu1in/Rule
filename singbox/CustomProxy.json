@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "idcflare.com",
         "subfree.de",
         "flyvpn.de",
         "sda.moe",
@@ -20,6 +19,8 @@
         "sehuatang.org",
         "readthedocs.io",
         "nodeseek.com",
+        "linux.do",
+        "idcflare.com",
         "acck.io",
         "thetvdb.com",
         "pterclub.com",
