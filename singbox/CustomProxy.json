@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "open.cd",
+        "idcflare.com",
         "subfree.de",
         "flyvpn.de",
-        "hitpt.com",
+        "sda.moe",
         "themoviedb.org",
         "ipapi.co",
         "ping0.cc",
@@ -21,8 +21,10 @@
         "readthedocs.io",
         "nodeseek.com",
         "acck.io",
-        "fsm.name",
         "thetvdb.com",
+        "pterclub.com",
+        "pterclub.net",
+        "fsm.name",
         "star-space.net",
         "aither.cc",
         "sunnypt.top",
@@ -47,7 +49,6 @@
         "leaves.red",
         "btschool.club",
         "hdfans.org",
-        "pterclub.com",
         "audiences.me",
         "cyanbug.net",
         "0ff.cc",
@@ -85,7 +86,8 @@
         "torrenthub.club",
         "picix.us",
         "dalao.net",
-        "sda.moe"
+        "open.cd",
+        "hitpt.com"
       ]
     }
   ]
