@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "clarivate.com",
         "wiley.com",
         "tjupt.org",
         "byr.pt",
