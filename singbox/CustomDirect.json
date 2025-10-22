@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "webofscience.com",
         "clarivate.com",
         "wiley.com",
         "tjupt.org",
