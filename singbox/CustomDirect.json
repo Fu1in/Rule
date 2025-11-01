@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "amazon.com",
         "ieee.org",
         "webofscience.com",
         "webofknowledge.com",
