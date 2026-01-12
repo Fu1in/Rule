@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "bpapi.apple.com",
         "swscan.apple.com",
         "swdist.apple.com",
         "swdownload.apple.com",
